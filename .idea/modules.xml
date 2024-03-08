@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/score_800/leetcode ques/leetcode ques.iml" filepath="$PROJECT_DIR$/score_800/leetcode ques/leetcode ques.iml" />
+      <module fileurl="file://$PROJECT_DIR$/score_800/score_800.iml" filepath="$PROJECT_DIR$/score_800/score_800.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/tle eliminator sheet.iml" filepath="$PROJECT_DIR$/.idea/tle eliminator sheet.iml" />
+    </modules>
+  </component>
+</project>
